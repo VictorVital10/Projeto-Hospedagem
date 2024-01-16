@@ -3,13 +3,3 @@
     padding: 0;
 }
 
-.bg-image {
-    color: #fff;
-    background-image: url("../img/img_test.png")  ;
-    height: 100px;
-    width: 1600px;
-    text-align: center;
-    padding: 100px;
-    background-position: center ;
-    background-size: cover;
-}
