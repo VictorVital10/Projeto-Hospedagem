@@ -1,0 +1,1 @@
+# Protótipo de Readme com Markdown, o projeto ainda está em andamento, e assim que for finalizado irei criar o Readme completo.
