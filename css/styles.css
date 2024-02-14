@@ -5,10 +5,6 @@
     box-sizing: border-box;
 }
 
-p {
-   color: grey;
-}
-
 /* NavBar */
 
 
@@ -48,7 +44,7 @@ nav {
     color: #fff;
     text-decoration: none;
     transition: 0.5s;
-    font-weight: 600;
+    font-weight: 600a;
  }
 
  .navbar-items a:hover {
@@ -94,73 +90,6 @@ nav {
 .main-banner p {
    font-size: 30px;
    font-weight: 600;
-}
-
-/* Services Section */
-
-.services-container {
-   padding: 90px 0;
-
-}
-
-.services-container ul{
-   display: flex;
-   width:85%;
-   margin: 0 auto;
-}
-
-.services-container li {
-   list-style: none;
-   text-align: center;
-   padding: 20px;
-}
-
-.fa-solid {
-   font-size: 70px;
-   padding: 20px;
-}
-
-.fa-shield-halved {
-   color: #22bb5f;
-}
-
-.fa-rocket {
-   color: #c13016;
-}
-
-.fa-comments {
-   color: #e4801d;
-}
-
-.services-container h3 {
-   font-size: 25px;
-}
-
-.services-container p {
-   padding-top: 30px;
-   line-height: 20px;
-}
-
-/* Prices and Plans */
-
-.prices-container {
-   padding: 0 30px;
-   text-align: center;
-}
-
-.prices-container h2 {
-   font-size: 40px ;
-   padding-bottom: 5px; ;
-}
-
-.prices-container p {
-   font-size: 18px ;
-   padding-bottom: 30px; ;
-}
-
-.prices-container ul {
-   display: flex;
-   width:   ;
 }
   
 
