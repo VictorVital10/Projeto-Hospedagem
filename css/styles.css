@@ -30,7 +30,6 @@ nav {
     right:0 ;
     height:80px;
     line-height: 80px;
-    margin: 0;
     display:inline-block ;
  }
 
@@ -45,10 +44,11 @@ nav {
     color: #fff;
     text-decoration: none;
     transition: 0.5s;
+    font-weight: 600;
  }
 
  .navbar-items a:hover {
-    color: #ccc;
+    color: #22bb5f;
  }
 
  .login-btn {
