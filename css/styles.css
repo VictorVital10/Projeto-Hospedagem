@@ -318,21 +318,67 @@ nav {
    font-size:15px;
 }
 
+/* Media Query  - À FAZER */
 
+@media screen and (max-width: 500px) {
+   .container{
+      width: 90%;
+   }
+   .navbar-container{
+      font-size: 15px;
+   }
+   .main-banner {
+      padding-bottom: 300px;
+   }
+   
+   .services-container ul{
+      display: flex;
+      width:85%;
+      margin: 10px 0;
+   }
+   
+   .services-container li {
+      list-style: none;
+      text-align:center ;
+      padding-left: 10px;
+      width:150px;
+   }
 
+  .prices-container ul {
+   display: flex;
+   flex-direction: column;
+   width: 400px;
+   margin: 30px auto;
+  }
 
+  .prices-container li {
+   margin-bottom: 20px;
+  }
 
+  .prices-container h3 {
+   margin: auto;
+  }
 
+  .domain-container {
+   height: 500px;
+  }
 
+  .domain-description {
+   padding-top: 100px;
+  }
 
+  .box-textarea{
+   width: 80%;
+  }
 
+  .contact-container footer {
+   padding-bottom: 40px;
+  }
 
-
-
-
-
-
-
-
+  .box-textarea3 {
+   width: 70%;
+   margin-top: 0;
+  }
+}
 
 
