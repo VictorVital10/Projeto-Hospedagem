@@ -16,7 +16,7 @@ Projeto criado em fevereiro/2024 para praticar conhecimentos em HTML e CSS em co
 ![Alt_Text](print.img/img4.png)
 
 ## Quinta tela:
-! [Alt_Text](print.img/img5.png)
+![Alt_Text](print.img/img5.png)
 
 ## Tecnologias usadas no projeto:
 
