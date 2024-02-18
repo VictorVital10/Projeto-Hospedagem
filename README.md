@@ -20,4 +20,5 @@ Projeto criado em fevereiro/2024 para praticar conhecimentos em HTML e CSS em co
 
 ## Tecnologias usadas no projeto:
 
-! [Alt]
+ - HTML5
+ - CSS3
